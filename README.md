@@ -1,6 +1,6 @@
-# BCHG-620 Bioinformatic Algorithms
+# BCHB-620 Bioinformatics Algorithms
 
-Independent course guided by Dr. Edwards, based on problems on [Rosalind](http://rosalind.info)
+Independent course guided by Dr. Edwards, based on problems on [Rosalind](http://rosalind.info), office hourse on Fridays at 10am.
 
 For the one credit course:
 
